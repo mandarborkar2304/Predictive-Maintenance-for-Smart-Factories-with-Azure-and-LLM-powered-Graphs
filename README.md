@@ -1,0 +1,1 @@
+# Predictive-Maintenance-for-Smart-Factories-with-Azure-and-LLM-powered-Graphs
